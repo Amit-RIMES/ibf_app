@@ -1,4 +1,4 @@
-# IBF App
+# IBF-SLM Application Development
 
 A prototype application for impact-based forecasting data processing, reasoning-ready corpus development, and model evaluation.
 
